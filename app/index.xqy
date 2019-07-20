@@ -78,7 +78,7 @@ xdmp:set-response-content-type("text/html; charset=utf-8"),
 <title>Shakespeare&apos; Plays</title>
 <link href="boilerplate.css" rel="stylesheet" type="text/css"/>
 <link href="fluid.css" rel="stylesheet" type="text/css"/>
-<link href="news.css" rel="stylesheet" type="text/css"/>
+<link href="shakplays.css" rel="stylesheet" type="text/css"/>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 	
 </head>
