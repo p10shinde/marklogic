@@ -11,14 +11,19 @@
 ## Step 4:
 	Go to 'Configure->Databases->shakplays->Forests' and attach the 
 	forest named '1011-shakplays'4.
-
+	
 ## Step 5:
+	Go to 'Configure->Databases->shakplays'. Select tab 'Load'. Now
+	inside  'Directorty' put the path to the following folder -> 'docs_to_upload'
+	and click next and you will have database loaded
+
+## Step 6:
 	Go to 'Configure->Groups->Defaults-App Servers' and go to 'Create HTTP' tab.
 	Fill in 'server name' as '1012-shakplays'
 	Put the Directory where you have your project setup in 'root' field. e.g E:\Coding\Assignment
-	Put the port as '1012' in 'port' field
+	Put the port as '1012' in 'port' fieldx
 	Select the 'database' as 'shakplays'
 
-## Step 6:
+## Step 7:
 	Go to browser and open 'http://localhost:1012/'
 	
